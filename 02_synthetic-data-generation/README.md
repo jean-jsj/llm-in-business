@@ -1,4 +1,4 @@
-# Rising Trend: LLM‑Driven Synthetic Data
+# 📌 Rising Trend: LLM‑Driven Synthetic Data
 
 Large language models (LLMs) have evolved to **synthetic data creators**. Key applications include:
 - **Data augmentation:** Enriching datasets in fields where real-world examples are limited.
@@ -7,10 +7,10 @@ Large language models (LLMs) have evolved to **synthetic data creators**. Key ap
 - **Scenario simulation:** Generating realistic hypothetical situations for strategic planning and policy evaluation.
 <br>
 
-# Case Study: Synthetic Unsafe Prompts for Safety Assessment
+# 📌 Case Study: Synthetic Unsafe Prompts for Safety Assessment
 This repository replicates the approach from Samvelyan et al. (2024), “Rainbow Teaming,” which leverages an LLM to produce a large dataset of user prompts specifically designed to **trigger unsafe or undesirable responses** in another LLM.
 
-### Safety Evaluation Workflow
+## Safety Evaluation Workflow
 
 - **Historical Practice:** Security teams and linguistic experts **manually** crafted tricky or malicious prompts to test AI safeguards.
 - **LLM‑Accelerated Generation:** The same adversarial prompts are now synthesized at scale:
