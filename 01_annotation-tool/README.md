@@ -1,4 +1,4 @@
-# LLMs are Overtaking Traditional NLP Methods
+# 📌 LLMs are Overtaking Traditional NLP Methods
 
 Unstructured text—such as search queries, social media posts, and free-form responses—poses significant challenges for traditional analytical methods:
 
@@ -17,7 +17,7 @@ Large language models (LLMs) are rapidly emerging as a compelling alternative!
 * **Spam Detection**
 "Flag incoming emails containing blacklisted URLs"
 
-### ❌ Text Classification Only Practical with LLMs
+### ✅ Text Classification Only Practical with LLMs
 * **Churn-Risk Signal**
 "Classify customer message into risk types (e.g., switching for cost reasons, hate UI)"
 
@@ -31,7 +31,7 @@ Large language models (LLMs) are rapidly emerging as a compelling alternative!
 "Does this response assert any facts not in the source doc?"
 <br><br>
 
-# Research Applications of LLMs
+# 📌 Research Applications of LLMs
 
 Empirical studies demonstrate that LLM outputs align closely with human raters across a range of tasks [(Bail, 2024)](https://www.pnas.org/doi/10.1073/pnas.2314021121)
 * **Brand Similarity & Attribute Ratings**<br>
@@ -50,7 +50,7 @@ Empirical studies demonstrate that LLM outputs align closely with human raters a
 [Zhang et al., (2023)](https://arxiv.org/abs/2305.15005) go beyond simple positive/negative/neutral tags to label discrete emotions (anger, joy, sadness), aspect-based sentiment (e.g., service vs. quality in reviews), and subjectivity/intensity scores
 <br><br>
 
-# Best Practices & Tips
+# 📌 Best Practices & Tips
 
 - **Use Fully-Specified Checklists**
   - Underspecified rubrics lead to lower inter-annotator agreement and higher subjective variance
@@ -77,7 +77,7 @@ Empirical studies demonstrate that LLM outputs align closely with human raters a
   - For highly specificalized domains, provide extrac context or domain examples
 <br><br>
 
-# Ensuring Validity of Your LLM tool
+# 📌 Ensuring Validity of Your LLM tool
 
 To ensure reliability, researchers focus on these key metrics:
 
@@ -86,14 +86,14 @@ To ensure reliability, researchers focus on these key metrics:
 - Calibration: LLM confidence (e.g., “90% sure this is safe”) must align with actual accuracy.
 <br><br>
 
-# Case Study 1: Classify Search Queries
+# 📌 Case Study 1: Classify Search Queries
 [👉 Click to open a step-by-step demo](./search_query_specificity.ipynb)
 <br>
 
 In this project, we used LLMs to categorize search queries as 'specific' or 'not specific' based on their level of detail and intent clarity
 <br>
 
-# Case Study 2: Evaluating LLM-User Conversations at Scale
+# 📌 Case Study 2: Evaluating LLM-User Conversations at Scale
 [👉 Click to open a step-by-step demo](./safety_evaluation.ipynb)
 <br>
 
