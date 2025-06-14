@@ -94,7 +94,7 @@ In this project, we used LLMs to categorize search queries as 'specific' or 'not
 <br>
 
 # Case Study 2: Evaluating LLM-User Conversations at Scale
-[👉 Click to open a step-by-step demo](./safety_evaluation.ipynb.ipynb)
+[👉 Click to open a step-by-step demo](./safety_evaluation.ipynb)
 <br>
 
 Imagine you had thousands of **chat logs between end users and AI assistants**—how could you turn those free-form conversations into data you can actually analyze? By annotating LLM–user interaction data, we can ask deeper questions about how people and models communicate.
